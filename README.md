@@ -5,10 +5,10 @@ A lightweight command-line tool to search for any string or keyword across multi
 
 ✨ Features
 
-🔎 Search any keyword or string across all CSV and XLSX files recursively
-📄 Displays the full row of every match with all column values
-📌 Highlights the matched column with a ◄ marker
-⌨️ Press Enter with no input to exit
+🔎 Search any keyword or string across all CSV and XLSX files recursively, 
+📄 Displays the full row of every match with all column values,
+📌 Highlights the matched column with a ◄ marker,
+⌨️ Press Enter with no input to exit,
 
 📋 Requirements
 
