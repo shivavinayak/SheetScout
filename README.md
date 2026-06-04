@@ -20,7 +20,7 @@ openpyxl library (for reading .xlsx files)
 pip install openpyxl
 
 2. Clone the Repository
-git clone https://github.com/your-username/csv-xlsx-search.git
+git clone https://github.com/shivavinayak/SheetScout.git
    
 4. Make the Script Executable
 chmod +x SheetScout.py
